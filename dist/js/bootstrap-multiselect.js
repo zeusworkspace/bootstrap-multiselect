@@ -258,7 +258,7 @@
                 }
                 else if (this.allSelectedText
                         && options.length === $('option', $(select)).length
-                        && $('option', $(select)).length !== 1
+                        //&& $('option', $(select)).length !== 1
                         && this.multiple) {
 
                     if (this.selectAllNumber) {
