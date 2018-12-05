@@ -1,0 +1,18 @@
+{
+    "name": "bootstrap-multiselect",
+    "description": "JQuery multiselect plugin based on Twitter Bootstrap.",
+    "version": "0.9.15",
+    "keywords": [
+        "js",
+        "css",
+        "less",
+        "bootstrap",
+        "jquery",
+        "multiselect"
+    ],
+    "license": "Apache License, Version 2.0",
+    "homepage": "http://davidstutz.de/bootstrap-multiselect/",
+    "scripts": {
+        "test": "karma start tests/karma.conf.js --single-run"
+    }
+}
